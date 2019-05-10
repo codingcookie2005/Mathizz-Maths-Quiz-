@@ -1,0 +1,15 @@
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\bin\Debug\Mathizz (Maths Quiz).exe.config
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\bin\Debug\Mathizz (Maths Quiz).exe
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\bin\Debug\Mathizz (Maths Quiz).pdb
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz (Maths Quiz).csprojAssemblyReference.cache
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.Form1.resources
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.Properties.Resources.resources
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz (Maths Quiz).csproj.GenerateResource.cache
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz (Maths Quiz).csproj.CoreCompileInputs.cache
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz (Maths Quiz).exe
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz (Maths Quiz).pdb
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.Form2.resources
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.AdditionForm.resources
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.SubtractionForm.resources
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.MultipicationForm.resources
+C:\Users\Roshan K\source\repos\Mathizz (Maths Quiz)\Mathizz (Maths Quiz)\obj\Debug\Mathizz__Maths_Quiz_.DivisionForm.resources
