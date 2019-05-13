@@ -47,8 +47,6 @@ namespace Mathizz__Maths_Quiz_
                 else
                 {
                     MessageBox.Show("You are wrong");
-                    MessageBox.Show("Please try again.. " +
-                        "")
                 }
             }
         }
